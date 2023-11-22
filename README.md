@@ -1,4 +1,4 @@
-# fachschaft-et-frontend
+# vuejs-template
 
 ## Project setup
 ```
